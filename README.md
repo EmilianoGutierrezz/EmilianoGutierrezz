@@ -1,4 +1,4 @@
-## Soy Emiliano Gutierrez, naci el 1ero de mayo de 2007, soy jugador en formativas de basketbal. Soy jugador semiprofesional de videojuegos y actualmente estudiando Desarrollo Web.
+## Soy Emiliano Gutierrez, naci el 1ero de mayo de 2007. Soy jugador semiprofesional de videojuegos y jugador en formativas de Basketball. Actualmente me encuentro estudiando Desarrollo Web.
 
 <!--
 **EmilianoGutierrezz/EmilianoGutierrezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
